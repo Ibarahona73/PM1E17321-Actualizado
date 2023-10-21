@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PM1E17321</string>
+    <string name="nota">Notas:</string>
+    <string name="Buscar">Buscar</string>
+    <string name="res">Registro ingresado con exito</string>
+    <string name="err">Error no se pudo registrar</string>
+
+</resources>
