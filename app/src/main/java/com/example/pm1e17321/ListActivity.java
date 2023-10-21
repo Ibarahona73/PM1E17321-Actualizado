@@ -129,6 +129,7 @@ public class ListActivity extends AppCompatActivity {
             }
         });
 
+        //ARREGLAR LO DEL contactIdToDelete PARA QUE NO SEA MANUAL
 
         eliminar.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -157,7 +158,7 @@ public class ListActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-            Toast.makeText(ListActivity.this,"Manten Presionado el contacto que quieras compartir", Toast.LENGTH_LONG);
+            Toast.makeText(ListActivity.this,"Manten Presionado el contacto de la lista que quieras compartir", Toast.LENGTH_LONG);
 
             }
         });
